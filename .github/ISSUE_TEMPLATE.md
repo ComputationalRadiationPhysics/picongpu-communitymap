@@ -8,6 +8,7 @@
 
 *Are you representing a larger organization/collaboration/project where PIConGPU is regularly used in?*
 
+*If you like, do not hesitate to share what you used PIConGPU for!*
 
 ### Location
 
