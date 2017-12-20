@@ -1,17 +1,17 @@
-# Map of PIConGPU contributors and users worldwide, current and past
+# Map of PIConGPU Contributors and Users
 
-This map documents PIConGPU contributors and users.
+This map documents [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu) contributors and users.
+
 It is open and contributable, just like PIConGPU!
-
-[Add yourself to this map :)](https://github.com/ComputationalRadiationPhysics/picongpu-communitymap/issues/new)
+[Just add yourself to our map :)](https://github.com/ComputationalRadiationPhysics/picongpu-communitymap/issues/new)
 
 ## Contribute
 
-If you are or did use PIConGPU in your work, please consider adding yourself.
-PIConGPU comes without a registration-wall, without strings attached and without any feedback to us (if you do not decide to).
+If you are or did use PIConGPU in your work, research, studies, benchmarks, ... or publications, please consider adding yourself.
 
-That means **we rely on you** to show our community, diversity and usefulness, e.g. to funding agencies!
+PIConGPU comes without a registration-wall, with open and re-distributable licenses, without any strings attached and due to all that freedom...: without any feedback to us (if you do not decide to)!
+**That means _we rely on you_ to show our community, diversity and usefulness, e.g. to funding agencies!**
 
 One important way to give back to the PIConGPU community is by [properly citing PIConGPU in your works](https://picongpu.readthedocs.io/en/latest/usage/reference.html).
 
-An other one is to [add yourself to this map](https://github.com/ComputationalRadiationPhysics/picongpu-communitymap/issues/new)!
+An other one is to [add yourself to our map](https://github.com/ComputationalRadiationPhysics/picongpu-communitymap/issues/new)!
