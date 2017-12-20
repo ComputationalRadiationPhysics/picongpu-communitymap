@@ -1,5 +1,8 @@
 # Map of PIConGPU Contributors and Users
 
+[![See Map](https://img.shields.io/badge/live-communitymap-brightgreen.svg)](https://computationalradiationphysics.github.io/picongpu-communitymap/)
+[![Add Yourself](https://img.shields.io/badge/add-yourself-blue.svg)](https://github.com/ComputationalRadiationPhysics/picongpu-communitymap/issues/new)
+
 This map documents [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu) contributors and users.
 
 It is open and contributable, just like PIConGPU!
