@@ -36,12 +36,29 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+          "domain": ["laser-plasma"],
+          "institution": "DESY"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.879133701324463,
-          53.57724474901202
+          9.879133,
+          53.57724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "domain": ["high energy density", "laser-plasma"],
+          "institution": "European XFEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.82904,
+          53.5885
         ]
       }
     },
@@ -106,7 +123,7 @@
           "contacts": [
               "Dr. Ajit Upadhyay"
           ],
-          "field": "laser-plasma",
+          "domain": ["laser-plasma"],
           "institution": "Raja Ramanna Center for Advanced Technology"
       },
       "geometry": {
@@ -158,6 +175,49 @@
         "coordinates": [
           120.998301,
           24.795762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "SIOM",
+          "domain": ["high-power laser", "high-intensity optics"],
+          "institution": "Shanghai Institute of Optics and Fine Mechanics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.214700,
+          31.404941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "domain": ["quantum optics", "laser-matter"],
+          "institution": "Max Planck Institute of Quantum Optics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.66686,
+          48.25965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "domain": ["laser-plasma"],
+          "institution": "Ludwig-Maximilian University of Munich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58013,
+          48.15085
         ]
       }
     }
