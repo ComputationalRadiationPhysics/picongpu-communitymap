@@ -102,12 +102,18 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+          "contacts": [
+              "Dr. Ajit Upadhyay"
+          ],
+          "field": "laser-plasma",
+          "institution": "Raja Ramanna Center for Advanced Technology"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.7871958,
-          22.6689933
+          75.7899,
+          22.6676
         ]
       }
     },
