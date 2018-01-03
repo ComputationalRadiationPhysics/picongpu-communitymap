@@ -220,6 +220,46 @@
           48.15085
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "domain": ["laser-plasma", "computer science"],
+          "institution": "Nizhny Novgorod State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9803139,
+          56.2995614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "ILE-KPSI",
+          "domain": ["laser-plasma"],
+          "institution": "Osaka University Institute of Laser Engineering and Kansai Photon Science Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5211564,
+          34.8203824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.209103,
+          48.7142971
+        ]
+      }
     }
   ]
 }
