@@ -158,12 +158,19 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+          "name": "ELI-NP",
+          "contacts": [
+              "Dr. Andrei Berceanu"
+          ],
+          "domain": ["laser-plasma"],
+          "institution": "Extreme Light Infrastructure - Nuclear Physics"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.0487933,
-          44.3532058
+          26.04994,
+          44.34984
         ]
       }
     },
