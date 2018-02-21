@@ -12,9 +12,11 @@ It is open and contributable, just like PIConGPU!
 
 If you are or did use PIConGPU in your work, research, studies, benchmarks, ... or publications, please consider adding yourself.
 
-PIConGPU comes without a registration-wall, with open and re-distributable licenses, without any strings attached and due to all that freedom...: without any feedback to us (if you do not decide to)!
+PIConGPU comes without a registration-wall, with open and re-distributable licenses, without strings attached.
+Due to all that freedom...: if you do not decide to provide feedback to us we will not know that you are using PIConGPU.
+
 **That means _we rely on you_ to show our community, diversity and usefulness, e.g. to funding agencies!**
 
 One important way to give back to the PIConGPU community is by [properly citing PIConGPU in your works](https://picongpu.readthedocs.io/en/latest/usage/reference.html).
 
-An other one is to [add yourself to our map](https://github.com/ComputationalRadiationPhysics/picongpu-communitymap/issues/new)!
+Another one is to [add yourself to our map](https://github.com/ComputationalRadiationPhysics/picongpu-communitymap/issues/new)!
