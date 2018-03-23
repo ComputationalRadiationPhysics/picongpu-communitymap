@@ -14,6 +14,42 @@
     },
     {
       "type": "Feature",
+      "properties": {
+          "name": "Technical University Dresden",
+          "contacts": [
+              "Prof. Dr. Wolfgang Nagel"
+          ],
+          "domain": ["high performance computing", "performance analysis"],
+          "institution": "Technical University Dresden - ZIH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.73476,
+          51.02876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Technical University Dresden",
+          "contacts": [
+              "Dr. Sebastian Grottel"
+          ],
+          "domain": ["graphics", "visualization"],
+          "institution": "Technical University Dresden - Chair of Computer Graphics and Visualisation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72293,
+          51.02550
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {},
       "geometry": {
         "type": "Point",
