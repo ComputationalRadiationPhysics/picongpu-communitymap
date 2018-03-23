@@ -50,6 +50,24 @@
     },
     {
       "type": "Feature",
+      "properties": {
+          "name": "MOSAIC Group",
+          "contacts": [
+              "Prof. Dr. Ivo F. Sbalzarini"
+          ],
+          "domain": ["image-based systems biology", "particle methods"],
+          "institution": "Max Planck Institute of Molecular Cell Biology and Genetics - MOSAIC Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78456,
+          51.05859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {},
       "geometry": {
         "type": "Point",
