@@ -259,6 +259,24 @@
     },
     {
       "type": "Feature",
+      "properties": {
+          "name": "University of Siegen",
+          "contacts": [
+              "Prof. Dr. Christian Gutt"
+          ],
+          "domain": ["X-ray scattering"],
+          "institution": "University of Siegen - Department of Physics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.023263,
+          50.91126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {},
       "geometry": {
         "type": "Point",
