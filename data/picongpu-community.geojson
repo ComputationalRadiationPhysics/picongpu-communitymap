@@ -246,14 +246,17 @@
       "type": "Feature",
       "properties": {
           "name": "ILE-KPSI",
-          "domain": ["laser-plasma"],
+          "contacts": [
+              "Prof. Dr. Youichi Sakawa"
+          ],
+          "domain": ["laser-plasma", "laboratory astrophysics"],
           "institution": "Osaka University Institute of Laser Engineering and Kansai Photon Science Institute"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5211564,
-          34.8203824
+          135.5234,
+          34.82035
         ]
       }
     },
