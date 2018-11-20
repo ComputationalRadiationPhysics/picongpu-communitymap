@@ -335,6 +335,24 @@
     },
     {
       "type": "Feature",
+      "properties": {
+          "name": "University of Texas at Austin",
+          "contacts": [
+              "Prof. Dr. Mike Downer"
+          ],
+          "domain": ["laser-plasma","radiation"],
+          "institution": "University of Texas at Austin - Department of Physics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.73634,
+          30.28892          
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
       "properties": {},
       "geometry": {
         "type": "Point",
