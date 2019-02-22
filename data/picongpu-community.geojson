@@ -3,7 +3,15 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+          "name": "HZDR",
+          "contacts": [
+              "Dr. Michael Bussmann",
+              "Axel Huebl"
+          ],
+          "domain": ["laser-plasma", "high performance computing"],
+          "institution": "Helmholtz-Zentrum Dresden-Rossendorf - Computational Radiation Physics"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -272,8 +280,12 @@
     {
       "type": "Feature",
       "properties": {
-          "domain": ["laser-plasma"],
-          "institution": "Ludwig-Maximilian University of Munich"
+          "name": "LMU",
+          "contacts": [
+              "Prof. Dr. Joerg Schreiber"
+          ],
+          "domain": ["laser-plasma", "targets"],
+          "institution": "Ludwig-Maximilian University of Munich - Laser-Ion-Acceleration"
       },
       "geometry": {
         "type": "Point",
@@ -340,17 +352,35 @@
           "contacts": [
               "Prof. Dr. Mike Downer"
           ],
-          "domain": ["laser-plasma","radiation"],
+          "domain": ["laser-plasma", "radiation"],
           "institution": "University of Texas at Austin - Department of Physics"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -97.73634,
-          30.28892          
+          30.28892
         ]
       }
-    },    
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Weizmann Institute of Science",
+          "contacts": [
+              "Dr. Igor Andriyash"
+          ],
+          "domain": ["laser-plasma"],
+          "institution": "Weizmann Institute of Science"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81353,
+          31.90757
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -365,10 +395,10 @@
         "type": "Point",
         "coordinates": [
           18.9563,
-          47.4888325          
+          47.4888325
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {},
