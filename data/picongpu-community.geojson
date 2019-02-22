@@ -383,6 +383,24 @@
     },
     {
       "type": "Feature",
+      "properties": {
+          "name": "Wigner RCP of the H.A.S.",
+          "contacts": [
+              "Mihály András Pocsai"
+          ],
+          "domain": ["ionization"],
+          "institution": "Wigner Research Center for Phyisics of the Hungarian Academy of Sciences - Department of Plasma Physics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9563,
+          47.4888325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {},
       "geometry": {
         "type": "Point",
