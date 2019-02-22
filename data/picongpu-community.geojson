@@ -347,28 +347,28 @@
         "type": "Point",
         "coordinates": [
           -97.73634,
-          30.28892
+          30.28892          
         ]
       }
-    },
+    },    
     {
       "type": "Feature",
       "properties": {
-          "name": "Weizmann Institute of Science",
+          "name": "Wigner RCP of the H.A.S.",
           "contacts": [
-              "Dr. Igor Andriyash"
+              "Mihály András Pocsai"
           ],
-          "domain": ["physics", "laser", "plasma"],
-          "institution": "Weizmann Institute of Science"
+          "domain": ["ionization"],
+          "institution": "Wigner Research Center for Phyisics of the Hungarian Academy of Sciences - Department of Plasma Physics"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.72293,
-          51.02550
+          18.9563,
+          47.4888325          
         ]
       }
-    },
+    },    
     {
       "type": "Feature",
       "properties": {},
