@@ -3,7 +3,15 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+          "name": "HZDR",
+          "contacts": [
+              "Dr. Michael Bussmann",
+              "Axel Huebl"
+          ],
+          "domain": ["laser-plasma", "high performance computing"],
+          "institution": "Helmholtz-Zentrum Dresden-Rossendorf - Computational Radiation Physics"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -272,8 +280,12 @@
     {
       "type": "Feature",
       "properties": {
-          "domain": ["laser-plasma"],
-          "institution": "Ludwig-Maximilian University of Munich"
+          "name": "LMU",
+          "contacts": [
+              "Prof. Dr. Joerg Schreiber"
+          ],
+          "domain": ["laser-plasma", "targets"],
+          "institution": "Ludwig-Maximilian University of Munich - Laser-Ion-Acceleration"
       },
       "geometry": {
         "type": "Point",
@@ -340,7 +352,7 @@
           "contacts": [
               "Prof. Dr. Mike Downer"
           ],
-          "domain": ["laser-plasma","radiation"],
+          "domain": ["laser-plasma", "radiation"],
           "institution": "University of Texas at Austin - Department of Physics"
       },
       "geometry": {
@@ -358,7 +370,7 @@
           "contacts": [
               "Dr. Igor Andriyash"
           ],
-          "domain": ["physics", "laser", "plasma"],
+          "domain": ["laser-plasma"],
           "institution": "Weizmann Institute of Science"
       },
       "geometry": {
