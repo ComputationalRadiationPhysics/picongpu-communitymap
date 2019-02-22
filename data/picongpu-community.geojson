@@ -346,11 +346,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.73634,
-          30.28892          
+          34.8083,
+          31.9045         
         ]
       }
-    },    
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Weizmann Institute of Sience",
+          "contacts": [
+              "Dr. Igor Andriyash"
+          ],
+          "domain": ["physics", "laser","plasma"],
+          "institution": "Weizmann Institute of Sience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72293,
+          51.02550
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {},
