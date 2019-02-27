@@ -384,6 +384,24 @@
     {
       "type": "Feature",
       "properties": {
+          "name": "PIMS",
+          "contacts": [
+              "Juncheng E"
+          ],
+          "domain": ["X-ray scattering plugin"],
+          "institution": "The Peac Institute of Multiscale Sciences"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.066,
+          30.657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
           "name": "Wigner RCP of the H.A.S.",
           "contacts": [
               "Mihály András Pocsai"
