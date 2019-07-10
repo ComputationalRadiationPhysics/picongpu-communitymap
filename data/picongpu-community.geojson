@@ -402,6 +402,24 @@
     {
       "type": "Feature",
       "properties": {
+          "name": "Tsinghua University",
+          "contacts": [
+              "Wenyin Wei"
+          ],
+          "domain": ["plasma physics"],
+          "institution": "Tsinghua University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3181,
+          40.0018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
           "name": "Wigner RCP of the H.A.S.",
           "contacts": [
               "Mihály András Pocsai"
