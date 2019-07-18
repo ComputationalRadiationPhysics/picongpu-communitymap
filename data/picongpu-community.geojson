@@ -400,6 +400,24 @@
       }
     },
     {
+        "type": "Feature",
+        "properties": {
+            "name": "IPPL",
+            "contacts": [
+                "Vasilis D"
+            ],
+            "domain": ["Laser-solid interaction"],
+            "institution": "Institute of Plasma Physics and Laser"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35.348476,
+                24.463218
+            ]
+        }
+    },
+    {
       "type": "Feature",
       "properties": {
           "name": "Tsinghua University",
