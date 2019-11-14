@@ -455,6 +455,24 @@
     },
     {
       "type": "Feature",
+      "properties": {
+          "name": "Cockroft Institute",
+          "contacts": [
+              "Cristian Bontoiu"
+          ],
+          "domain": ["laser-plasma"],
+          "institution": "Cockroft Institute/Liverpool University - Physics Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.64128,
+          53.34444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {},
       "geometry": {
         "type": "Point",
