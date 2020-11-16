@@ -473,6 +473,24 @@
     },
     {
       "type": "Feature",
+      "properties": {
+          "name": "Shenzhen Technology University",
+          "contacts": [
+              "Hao Peng"
+          ],
+          "domain": ["Thomson scattering"],
+          "institution": "Shenzhen Technology University - college of engineering physics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0504,
+          22.5379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {},
       "geometry": {
         "type": "Point",
