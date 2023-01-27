@@ -491,7 +491,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+          "name": "Laboratoire de Physique des Plasmas (LPP)",
+          "contacts": [
+              "unknown"
+          ],
+          "domain": ["plasma physics"],
+          "institution": "Laboratoire de Physique des Plasmas (LPP)"
+           },
       "geometry": {
         "type": "Point",
         "coordinates": [
