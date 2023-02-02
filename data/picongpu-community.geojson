@@ -491,12 +491,37 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+          "name": "Laboratoire de Physique des Plasmas (LPP)",
+          "contacts": [
+              "unknown"
+          ],
+          "domain": ["plasma physics"],
+          "institution": "Laboratoire de Physique des Plasmas (LPP)"
+           },
       "geometry": {
         "type": "Point",
         "coordinates": [
           2.209103,
           48.7142971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "University Kebangsaan Malaya",
+          "contacts": [
+              "Siew Yan Hoh"
+          ],
+          "domain": ["laser-plasma"],
+          "institution": "University Kebangsaan Malaya - Department of Applied Physics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7799,
+          2.9293          
         ]
       }
     }
